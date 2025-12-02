@@ -64,7 +64,7 @@ These are the standard steps for developing and sharing your work with git and `
     ```
 
 4.  **Stage Files (Add)**
-    Stage the modified or new files, including any updated configuration files (`pyproject.toml`, `uv.lock`) if you added a package.
+    Stage the modified or new files once you are done working on the project.
     ```bash
     git add .
     ```
