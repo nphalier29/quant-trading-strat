@@ -2,7 +2,7 @@
 
 ## Project Context
 
-This project was carried out as part of the course *Crypto-currencies and Bitcoin*, taught by Zhe Huang (2024-2025).
+This project was carried out as part of the course *Crypto-currencies and Bitcoin*, taught by Zhe Huang (2025-2026).
 
 ## Objective
 
